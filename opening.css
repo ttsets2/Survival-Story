@@ -1,0 +1,72 @@
+.imgFront {
+    float: left;
+    width: 45%;
+}
+
+h1 {
+    font-family: Comfortaa;
+    font-variant: normal;
+    position: absolute;
+    text-decoration: none;
+    left: 2%;
+    top: 3%;
+    color: white;
+    text-shadow: 0px 0px 2px;
+    font-size: 40px;
+}
+
+.button {
+    position: absolute;
+    background-color: #d3ffbd;
+    border: none;
+    color: green;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 8px;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    left: 35%;
+    top: 85%;
+}
+
+.button:hover {
+    background-color: white;
+    color: red;
+    border: 2px solid red;
+    text-shadow: 0px 0px 1px;
+}
+
+.gameImage {
+    width: 45%;
+    float: left;
+}
+
+sketch-holder {
+    width: 45%;
+    float: left;
+}
+
+.passageRight {
+    color: white;
+    border: 10px solid;
+    position: absolute;
+    margin-left: 50%;
+    font-size: 20px;
+    line-height: 28px;
+    width: 45%;
+    padding: 10px;
+}
+
+body {
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+body {
+    background-color: black;
+    image-orientation 
+    background-image: url('https://wallup.net/wp-content/uploads/2016/01/61422-space-stars-nebula-748x468.jpg');
+}
