@@ -1,12 +1,3 @@
-let playerDead = false;
-let rescued = false;
-  
-let depression = 0;
-let lonliness = 0;
-  
-let fishing = "F";
-let foraging = "F";
-
 function preload() {
     forest = loadImage('https://i.imgur.com/alQcvUw.png');
     lifepod = loadImage('https://i.imgur.com/tPx0l9i.png');
