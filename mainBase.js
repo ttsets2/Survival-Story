@@ -81,8 +81,8 @@ function draw() {
 }
 
 /*
- * https://en.wikipedia.org/wiki/Uruguayan_Air_Force_Flight_571
- * https://en.wikipedia.org/wiki/Alexander_Selkirk
- * https://en.wikipedia.org/wiki/List_of_sole_survivors_of_aviation_accidents_and_incidents#:~:text=%20%20%20%20Date%20%20%20,%20%20%5B89%5D%20%2020%20more%20rows%20
- * https://en.wikipedia.org/wiki/Jos%C3%A9_Salvador_Alvarenga
+    https://en.wikipedia.org/wiki/Uruguayan_Air_Force_Flight_571
+    https://en.wikipedia.org/wiki/Alexander_Selkirk
+    https://en.wikipedia.org/wiki/List_of_sole_survivors_of_aviation_accidents_and_incidents#:~:text=%20%20%20%20Date%20%20%20,%20%20%5B89%5D%20%2020%20more%20rows%20
+    https://en.wikipedia.org/wiki/Jos%C3%A9_Salvador_Alvarenga
 */
