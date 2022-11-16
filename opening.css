@@ -1,8 +1,14 @@
+/*
+    sets CSS for the image on the index page
+*/
 .imgFront {
     float: left;
     width: 45%;
 }
 
+/*
+    Controls the title on the index page
+*/
 h1 {
     font-family: Comfortaa;
     font-variant: normal;
@@ -15,6 +21,9 @@ h1 {
     font-size: 40px;
 }
 
+/*
+    button that goes to the next page
+*/
 .button {
     position: absolute;
     background-color: #d3ffbd;
@@ -32,6 +41,19 @@ h1 {
     top: 85%;
 }
 
+/*
+    css for when you hover over a normal button
+*/
+.button:hover {
+    background-color: white;
+    color: red;
+    border: 2px solid red;
+    text-shadow: 0px 0px 1px;
+}
+
+/*
+    css for the button that loops to the start
+*/
 .buttonEnd {
     position: absolute;
     background-color: rgb(100,0,0);
@@ -49,6 +71,9 @@ h1 {
     top: 85%;
 }
 
+/*
+defines css form when you hover over buttonEnd
+*/
 .buttonEnd:hover {
     background-color: black;
     color: red;
@@ -56,41 +81,43 @@ h1 {
     text-shadow: 0px 0px 1px;
 }
 
-.button:hover {
-    background-color: white;
-    color: red;
-    border: 2px solid red;
-    text-shadow: 0px 0px 1px;
-}
-
+/*
+    Sets the css for the opening html's
+*/
 .gameImage {
     width: 45%;
     float: left;
 }
 
+/*
+    css for the script that houses the p5
+*/
 sketch-holder {
     width: 45%;
     float: left;
 }
 
+/*
+    sets all the CSS for the paragraphs that tell the story
+*/
 .passageRight {
+    background-color: black;
     color: white;
     border: 10px solid;
     position: absolute;
     margin-left: 50%;
     font-size: 20px;
-    line-height: 28px;
+    line-height: 25px;
     width: 45%;
     padding: 10px;
 }
 
+/*
+    css that removes the scroll bars and creates the background of the webpage
+*/
 body {
     overflow-y: hidden;
     overflow-x: hidden;
-}
-
-body {
     background-color: black;
-    image-orientation 
     background-image: url('https://wallup.net/wp-content/uploads/2016/01/61422-space-stars-nebula-748x468.jpg');
 }
